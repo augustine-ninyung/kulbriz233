@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there 👋, I'm Augustine Ninyung</h1>
+<h1 align="center">Hey there, I'm Augustine Ninyung</h1>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 <p>
 I’m a Front-end and Front-end Pro student at <strong>ALX</strong>, walking the journey of Software Engineering with purpose and passion. 
@@ -17,14 +17,14 @@ What got me into tech? <em>[insert — e.g. a love for solving problems, curiosi
 </p>
 
 <p>
-🌟 I’m passionate about <strong>building beautiful, user-first web interfaces</strong> and exploring the space where design meets functionality.<br>
-🛡️ I also have an eye on <strong>cybersecurity</strong> — I believe great design must also be secure.<br>
-💡 Inspiration strikes when I think about the future we can code — from ethical tech to empowering communities through software.
+ I’m passionate about <strong>building beautiful, user-first web interfaces</strong> and exploring the space where design meets functionality.<br>
+ I also have an eye on <strong>cybersecurity</strong> — I believe great design must also be secure.<br>
+ Inspiration strikes when I think about the future we can code — from ethical tech to empowering communities through software.
 </p>
 
 ---
 
-## 🎯 My Vision
+##  My Vision
 
 <p>
 My aim is to <strong> create impactful, accessible web solutions that solve real-world problems</strong>.
@@ -33,7 +33,7 @@ That’s why I’m eager to work on projects like <strong>progressive web apps, 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -47,7 +47,7 @@ That’s why I’m eager to work on projects like <strong>progressive web apps, 
 
 ---
 
-## 🛠️ Tools & IDEs
+##  Tools & IDEs
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -58,7 +58,7 @@ That’s why I’m eager to work on projects like <strong>progressive web apps, 
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=augustine-ninyung&show_icons=true&theme=tokyonight" height="180em" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augustine-ninyung&layout=compact&theme=tokyonight" height="180em" />
@@ -69,33 +69,33 @@ That’s why I’m eager to work on projects like <strong>progressive web apps, 
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 > Here are a few things I’ve worked on recently:
 
-- 🔐 **[Cocktail Web App](https://github.com/augustine-ninyung/Tip_Joourney_1.git)**  
+-  **[Cocktail Web App](https://github.com/augustine-ninyung/Tip_Joourney_1.git)**  
   Built with React + Firebase Auth to explore user auth best practices.
 
-- 🧾 **[Python Studies](https://github.com/augustine-ninyungkulbriz233/Learning_Python.git)**  
+-  **[Python Studies](https://github.com/augustine-ninyungkulbriz233/Learning_Python.git)**  
   A study journey I started to polish my pyhton skills.
 
-- 🌐 **[Responsive Portfolio Website](https://github.com/augustine-ninyung/Portfolio.git)**  
+-  **[Responsive Portfolio Website](https://github.com/augustine-ninyung/Portfolio.git)**  
   A personal portfolio built with HTML, CSS, and a touch of JavaScript — accessible and responsive. But yet to be started
 
 ---
 
-## 📚 Learning & Certifications
+##  Learning & Certifications
 
-- 🎓 Google Cybersecurity Certificate  
-  🔁 Automation with Python, Threat Hunting, and SIEM analysis.
+-  Google Cybersecurity Certificate  
+   Automation with Python, Threat Hunting, and SIEM analysis.
 
-- 🛡️ Exploring more with OWASP & ethical hacking tools.
+-  Exploring more with OWASP & ethical hacking tools.
 
-- 💻 Current focus: mastering advanced React patterns & modern frontend architecture.
+-  Current focus: mastering advanced React patterns & modern frontend architecture.
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 <p align="center">
   <a href="www.linkedin.com/in/augustine-ninyung-7b8099222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
