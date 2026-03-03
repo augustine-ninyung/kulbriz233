@@ -2,6 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Augustine Ninyung</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=09F7F7&width=435&lines=Front-end+Developer+%7C+React+Enthusiast;Cybersecurity+Student+%7C+Curious+Builder;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
