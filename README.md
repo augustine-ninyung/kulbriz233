@@ -60,15 +60,8 @@ That’s why I’m eager to work on projects like <strong>[insert project types 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=augustine-ninyung&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=augustine-ninyung&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=augustine-ninyung&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustine-ninyung&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
