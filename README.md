@@ -27,8 +27,8 @@ What got me into tech? <em>[insert — e.g. a love for solving problems, curiosi
 ## 🎯 My Vision
 
 <p>
-My aim is to <strong>[insert your vision — e.g. create impactful, accessible web solutions that solve real-world problems]</strong>.
-That’s why I’m eager to work on projects like <strong>[insert project types — e.g. progressive web apps, educational platforms, secure login systems, responsive dashboards]</strong> that bring both purpose and polish.
+My aim is to <strong> create impactful, accessible web solutions that solve real-world problems</strong>.
+That’s why I’m eager to work on projects like <strong>progressive web apps, educational platforms, secure login systems, responsive dashboards</strong> that bring both purpose and polish.
 </p>
 
 ---
