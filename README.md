@@ -60,13 +60,11 @@ That’s why I’m eager to work on projects like <strong>progressive web apps, 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=augustine-ninyung&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=augustine-ninyung&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augustine-ninyung&layout=compact&theme=tokyonight" height="180em" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=augustine-ninyung&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augustine-ninyung&layout=compact&theme=tokyonight" />
 </p>
 
 ---
