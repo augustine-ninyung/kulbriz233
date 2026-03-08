@@ -13,7 +13,7 @@
 
 <p>
 I’m a Front-end and Front-end Pro student at <strong>ALX</strong>, walking the journey of Software Engineering with purpose and passion. 
-What got me into tech? <em>[insert — e.g. a love for solving problems, curiosity about how apps work, etc.]</em>
+What got me into tech? <em>I a love for solving problems, curiosity about how apps work, etc.</em>
 </p>
 
 <p>
